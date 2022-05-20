@@ -75,8 +75,8 @@ nav button {
   position: absolute;
   top: calc(var(--x) * 1px);
   left: calc(var(--y) * 1px);
-  width: 1px;
-  height: 1px;
+  width: 5px;
+  height: 5px;
   background-color: orange;
   background-size: cover;
   background-position: center;
