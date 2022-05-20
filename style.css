@@ -40,7 +40,7 @@ nav {
 nav button {
   border: none;
   outline: none;
-  background-color: transparent;
+  background-color: Transparent;
   cursor: pointer;
   display: grid;
   place-items: center;
@@ -49,11 +49,11 @@ nav button {
 }
 
 .start-btn.active {
-  color: #008000;
+  color: #089921;
 }
 
 .start-btn:hover {
-  color: #008000;
+  color: #089921;
 }
 
 .container {
@@ -205,7 +205,7 @@ nav button {
   padding: 5px 10px;
   border: none;
   outline: none;
-  background-color: orange;
+  background-color: Blue;
   border-radius: 5px;
   font-size: 1rem;
 }
