@@ -77,7 +77,7 @@ nav button {
   left: calc(var(--y) * 1px);
   width: 5px;
   height: 5px;
-  background-color: orange;
+  background-color: 627462;
   background-size: cover;
   background-position: center;
   border-radius: 50%;
@@ -102,9 +102,9 @@ nav button {
 
 .info {
   display: flex;
-  width: calc(var(--board-size) * 1px);
-  background-color: #000000;
-  color: #fff;
+  width: calc(var(--board-size) * 4px);
+  background-color: #079221;
+  color: #ggg;
   padding: 0 1em;
   justify-content: space-between;
   align-items: center;
@@ -123,12 +123,12 @@ nav button {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  background-color: orange;
+  background-color: 0735923;
 }
 
 .health-bar {
   margin-left: auto;
-  background-color: red;
+  background-color:6376826;
 }
 
 .im.small {
@@ -180,7 +180,7 @@ nav button {
 }
 
 .gameover-content .header {
-  background-color: red;
+  background-color: 356291;
   color: #fff;
   margin-bottom: 10px;
   padding: 5px 0;
@@ -205,7 +205,7 @@ nav button {
   padding: 5px 10px;
   border: none;
   outline: none;
-  background-color: Blue;
+  background-color: 338743;
   border-radius: 5px;
   font-size: 1rem;
 }
@@ -246,7 +246,7 @@ nav button {
 }
 
 .switcher:checked {
-  background: coral;
+  background: 619763;
 }
 
 .switcher::before {
